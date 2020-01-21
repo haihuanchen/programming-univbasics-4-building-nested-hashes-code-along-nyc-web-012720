@@ -9,7 +9,7 @@ def fourth_challenge
           name: "Benvolio", age: "17", atttitude: "worried"
         }
         {
-          name: "Mercutio", age: "18", atttitude: "hot"
+          name: "Mercutio", age: "18", atttitude: "hot-headed"
         }
           
       ]
