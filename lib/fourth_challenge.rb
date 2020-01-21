@@ -23,7 +23,7 @@ def fourth_challenge
           name: "Steven", age: "30", atttitude: "confused"
         }
         {
-          name: "Nurse",
+          name: "Nurse", age: "44", atttitude: "worried"
         }
       ]
    }
